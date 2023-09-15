@@ -1,0 +1,24 @@
+.navbar{
+    height: 70px;
+    background-color:#2f466b ;
+}
+.heading{
+    text-decoration: none;
+    font-size: 25px;
+}
+.heading img{
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 5px;
+    align-items: center;
+}
+.heading span{
+    color: rgb(253, 252, 252);
+    font-size: 50px;
+    font-weight: 600;
+}
+.navbar .cartIcon{
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+}
